@@ -12,3 +12,7 @@ void calc_sum();
 void calc_sqrt();
 
 void test_func(){cout<<"works";}
+/* Using input
+int x;
+input(x);
+**/
